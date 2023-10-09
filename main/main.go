@@ -1,3 +1,8 @@
+// TODO: need to remove the Logrus package and dependency.
+// TODO: implement better the metrics logic.
+// TODO: implement better the queue logic.
+// TODO: implement a configuration logic for the automation server that need to be supported.
+
 package main
 
 import (
